@@ -1,0 +1,33 @@
+.ui.grid.no-margin-top
+  .column.six.wide.background.fixed.mobile.hidden
+  .nine.wide.computer.sixteen.wide.mobile.column.center.aligned.centered
+    br
+    br
+    br
+    h1.ui.header Hi, I am <a href="https://github.com/victorFSL" target="_blank">Victor Santana</a> and I am here to talk web!
+    br
+    br
+    .ui.segment.inverted.centered.very.padded.raised.center.aligned
+      h1.ui.header I would like to share some lessons I learned in my journey, that might save you 100s of hours of frustration <span class="fade-in">or create more.</span>
+      br
+      p I have divided this website in my 3 areas of interest:
+      .ui.cards.fluid.centered
+        .card
+          .content
+            .header Ruby/Rails
+            .description
+              | In my opinion Rails is the fastest way to create apps, it really does a lot for you. And Ruby just makes it so much more fun
+        .card
+          .content
+            .header Cypress
+            .description
+              | Test automation has evolved in recent years, Cypress is rethinking the approach to test apps. Make the switch you will not regret it.
+        .card
+          .content
+            .header Web Security
+            .description
+              | The only thing I enjoy more than building stuff, is breaking them. Join me in the adventure!
+
+</br>
+ br
+ br
